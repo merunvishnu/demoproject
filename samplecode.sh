@@ -1,1 +1,1 @@
- -> echo "samplecode.sh file has been created"
+ echo "samplecode.sh file has been created"
